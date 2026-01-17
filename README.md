@@ -1,5 +1,3 @@
-# foundation-
-
 # Cybersecurity Foundations – First Year Student
 
 ## Overview
